@@ -1,24 +1,40 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Login form sample</title>
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="bootstrap/css/main.css">
-        <title>First trial project</title>
-    </head>
-    <body >
-        <h3>Zodia Sign</h3>
-        <p>There are 12 zodiac signs according to astrology that has been accepted worldwide</p>
-        <script src="js/exercise.js"></script>
-        <img src="images/aquarius.png" /><img src="images/aries.png" />
-        <img src="images/cancer.png" /><img src="images/capricorn.png" />
-        <img src="images/gemini.png" /><img src="images/leo.png" />
-        <img src="images/libra.png" /><img src="images/pisces.png" />
-        <img src="images/sagittarius.png" /><img src="images/scorpio.png" />
-        <img src="images/taurus.png" /><img src="images/virgo.png" />
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Horoscope by Bijaya Manandhar</title>
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+				<form>
+					<div class="form-group">
+						<h1>Enter your horoscope sign</h1>
+					</div>
+					<div class="form-group">
+						<input id="userdata" class="form-control">
+					</div>
+					<div class="form-group">
+						<!-- runs the function line 66 main.js -->
+						<button type="button" onclick="horoscope()" class="btn btn-primary btn-lg">Find Sign</button>
+					</div>
+				</form>
+
+				<div>
+					<h1 id="yourSign"></h1>
+					<img id="icon" src="">
+					<p id="yourHoroscope"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/main.js"></script>
 
 </body>
 </html>

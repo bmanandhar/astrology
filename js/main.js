@@ -17,73 +17,73 @@ function zodiac() {
     var zodiaArray = [
 
         {
-        sign: "Some sign",
+        sign: "aquarius",
         reading: "Some reading",
         img: "images/aquarius.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "aries",
         reading: "Some reading",
         img: "images/aries.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "cancer",
         reading: "Some reading",
         img: "images/cancer.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "capricorn",
         reading: "Some reading",
         img: "images/capricorn.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "gemini",
         reading: "Some reading",
         img: "images/gemini.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "leo",
         reading: "Some reading",
         img: "images/leo.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "libra",
         reading: "Some reading",
         img: "images/libra.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "pisces",
         reading: "Some reading",
         img: "images/pisces.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "sagittarius",
         reading: "Some reading",
         img: "images/sagittarius.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "scorpio",
         reading: "Some reading",
         img: "images/scorpio.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "taurus",
         reading: "Some reading",
         img: "images/taurus.png"
         },
 
         {
-        sign: "Some sign",
+        sign: "virgo",
         reading: "Some reading",
         img: "images/virgo.png"
         },
