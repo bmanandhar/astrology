@@ -4,8 +4,8 @@ property1 : true,
 property1 : true,
 property1 : true,
 }
-
-var pic = document.getElementById('pic')
+var zodiac = [Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, sagittarius, Capricorn, Aquarius, Pisces]
+var pic = document.getElementById('zodiac')
 pic.src = object.
 
 function zodiac() {
