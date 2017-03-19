@@ -5,66 +5,83 @@
  }
 
 #start{
-    font-size:25px;
-    font-family:sans-serif;
-    background-color: #00ff00;
+  font-size:25px;
+  font-family:sans-serif;
+  background-color: #00ff00;
+}
+
+#inputs {
+  background-color:
 
 }
 
+#button00 {
+  background-color: #ff4000;
+  height: 25x;
+  width: 95px
+}
 
 #button01 {
- background-color: #ff4000;
-
+  background-color: #8000ff;
+  height: 25x;
+  width: 95px
 }
 
 #button02 {
- background-color: #8000ff;
-
+  background-color: #0080ff;
+  height: 25x;
+  width: 90px
 }
 
 #button03 {
- background-color: #0080ff;
-
+  background-color: #C40C40;
+  height: 25x;
+  width: 90px
 }
 
 #button04 {
- background-color: #C40C40;
-
+  background-color: #66d9ff;
+  height: 25x;
+  width: 90px
 }
 
 #button05 {
- background-color: #66d9ff;
-
+  background-color: #6666FF;
+  height: 25x;
+  width: 90px
 }
 
 #button06 {
- background-color: #6666FF;
-
+  background-color: #26acd9;
+  height: 25x;
+  width: 90px
 }
 
 #button07 {
- background-color: #26acd9;
-
+  background-color: #9679FF;
+  height: 25x;
+  width: 90px
 }
 
 #button08 {
- background-color: #9679FF;
-
+  background-color: #C25C7B;
+  height: 25x;
+  width: 90px
 }
 
 #button09 {
- background-color: #C25C7B;
-
+  background-color: #CCFF33;
+  height: 25x;
+  width: 90px
 }
 
 #button10 {
- background-color: #CCFF33;
-
+  background-color: #29FF85;
+  height: 25x;
+  width: 90px
 }
-
 #button11 {
- background-color: #29FF85;
-
+  background-color: #f442a1;
+  height: 25x;
+  width: 90px
 }
-#button12 {
- background-color: #CCFF33;
