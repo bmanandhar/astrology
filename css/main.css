@@ -84,3 +84,68 @@
   height: 25x;
   width: 90px
 }
+
+.sketch {
+  height: 250px;
+  widthe: 50px;
+}
+
+#z00 {
+  height: 270px;
+  background-color: #B8C9CF;
+}
+
+#z01 {
+  height: 270px;
+  background-color: #999CF0;
+}
+
+#z02 {
+  height: 270px;
+  background-color: #E61568;
+}
+
+#z03 {
+  height: 270px;
+  background-color: #379147;
+}
+
+#z04 {
+  height: 270px;
+  background-color: #918737;
+}
+
+#z05 {
+  height: 270px;
+  background-color: #B3F2D0;
+}
+
+#z06 {
+  height: 270px;
+  background-color: #F2B3D5;
+}
+
+#z07 {
+  height: 270px;
+  background-color: #82F980;
+}
+
+#z08 {
+  height: 270px;
+  background-color: #ffff66;
+}
+
+#z09 {
+  height: 270px;
+  background-color: #ff66ff;
+}
+
+#z10 {
+  height: 270px;
+  background-color: #3399ff;
+}
+
+#z11 {
+  height: 260px;
+  background-color: #99ff33;
+}
