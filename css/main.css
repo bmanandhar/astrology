@@ -1,3 +1,5 @@
+.boxed {border: 3px solid green; background-color: yellow; margin-top: 25px;}
+
 #title{
   font-size:25px;
   font-family: fantasy;
@@ -12,6 +14,11 @@
 
 #inputs {
   background-color:
+}
+
+.sign {
+  font-size: 20px;
+  text-decoration: undeline;
 }
 
 #Aries {
@@ -84,10 +91,12 @@
   height: 25x;
   width: 90px
 }
+.container.row.col-xs-4{
+text-align: center;
+}
 
-.sketch {
-  height: 250px;
-  widthe: 50px;
+p {
+  font-size: 17px;
 }
 
 #z00 {
